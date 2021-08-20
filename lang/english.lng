@@ -1,0 +1,21 @@
+##grflangid 0x00
+# American English language file
+
+# GRF name and descriptions
+STR_GRF_NAME        :{TITLE} {VERSION}
+STR_GRF_DESCRIPTION :A reimplementation of the hi-rail Gmund Mog from andythenorth's HEQS.{}{COPYRIGHT}2021 Droideka30{}License: GNU Public License v3
+
+# vehicle names
+STR_NAME_58_MOG_SHUNT  :Gmund '58 Mog Hi-Rail Shunter
+STR_NAME_63_MOG_SHUNT  :Gmund '63 Mog Hi-Rail Shunter
+STR_NAME_76_MOG_SHUNT  :Gmund '76 Mog Hi-Rail Shunter
+STR_NAME_92_MOG_SHUNT  :Gmund '92 Mog Hi-Rail Shunter
+STR_NAME_09_MOG_SHUNT  :Gmund '09 Mog Hi-Rail Shunter
+STR_NAME_30_MOG_SHUNT  :Gmund '30 Mog Hi-Rail Shunter
+
+# STR_MODEL_1958      :Model: {GOLD}1958
+# STR_MODEL_1963      :Model: {GOLD}1963
+# STR_MODEL_1976      :Model: {GOLD}1976
+# STR_MODEL_1992      :Model: {GOLD}1992
+# STR_MODEL_2009      :Model: {GOLD}2009
+# STR_MODEL_2030      :Model: {GOLD}2030
