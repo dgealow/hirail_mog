@@ -5,7 +5,7 @@ A reimplementation of the hi-rail Gmund Mog from andythenorth's HEQS, re-coded i
 License
 ---------
 
-Hi-Rail Vehicles is authored by Daniel Gealow, aka Droideka30, as a clone of the Gmund Mog Hi-Rail Truck from HEQS. It is released under the GNU General Public License v3 or later.
+Hi-Rail Vehicles is authored by Daniel Gealow, aka Droideka30, as a clone of the Gmund Mog Hi-Rail Truck from HEQS. It is released under the GNU General Public License v3 or later, which can be found at https://www.gnu.org/licenses/gpl-3.0.html
 
 HEQS was authored by andythenorth, the makefile by Ingo von Borstel (aka planetmaker) and released under the GNU General Public license v2 or later.
 

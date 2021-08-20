@@ -3,7 +3,7 @@
 
 # GRF name and descriptions
 STR_GRF_NAME        :{TITLE} {VERSION}
-STR_GRF_DESCRIPTION :A reimplementation of the hi-rail Gmund Mog from andythenorth's HEQS.{}{COPYRIGHT}2021 Droideka30{}License: GNU Public License v3
+STR_GRF_DESCRIPTION :A reimplementation of the hi-rail Gmund Mog from andythenorth's HEQS.{}{COPYRIGHT}2021 Droideka30{}License: GNU Public License v3 or higher{}Absolutely no warranty whatsoever--shunt at your own risk!
 
 # vehicle names
 STR_NAME_58_MOG_SHUNT  :Gmund '58 Mog Hi-Rail Shunter
